@@ -59,9 +59,14 @@ i {
  color: hsl(178, 100%, 50%);
 }
 
+svg {
+ margin-right: 5px;
+}
+
 #price {
  display: flex;
  justify-content: space-between;
+ align-items: center;
 }
 
 #line {
